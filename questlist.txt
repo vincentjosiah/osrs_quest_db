@@ -1,0 +1,154 @@
+Cook's Assistant	Novice	Short	1
+Demon Slayer	Novice	Medium	3
+The Restless Ghost	Novice	Short	1
+Romeo & Juliet	Novice	Short	5
+Sheep Shearer	Novice	Short	1
+Shield of Arrav	Novice	Medium	1
+Ernest the Chicken	Novice	Short	4
+Vampire Slayer	Novice	Short	3
+Imp Catcher	Novice	Short	1
+Prince Ali Rescue	Novice	Short	3
+Doric's Quest	Novice	Short	1
+Black Knights' Fortress	Novice	Short	3
+Witch's Potion	Novice	Short	1
+The Knight's Sword	Intermediate	Medium	1
+Goblin Diplomacy	Novice	Short	5
+Pirate's Treasure	Novice	Short	2
+Dragon Slayer	Experienced	Long	2
+Rune Mysteries	Novice	Short	1
+Misthalin Mystery	Novice	Short	1
+The Corsair Curse	Novice	Short	2
+X Marks the Spot	Novice	Short	1
+Druidic Ritual	Novice	Short	4
+Lost City	Experienced	Short	3
+Witch's House	Intermediate	Short	4
+Merlin's Crystal	Intermediate	Medium	6
+Heroes' Quest	Experienced	Medium – Long	1
+Scorpion Catcher	Intermediate	Short – Medium	1
+Family Crest	Experienced	Medium	1
+Tribal Totem	Intermediate	Short	1
+Fishing Contest	Novice	Short	1
+Monk's Friend	Novice	Very short	1
+Temple of Ikov	Experienced	Medium	1
+Clock Tower	Novice	Short	1
+Holy Grail	Intermediate	Medium	2
+Tree Gnome Village	Intermediate	Short	2
+Fight Arena	Experienced	Short	2
+Hazeel Cult	Novice	Short	1
+Sheep Herder	Novice	Short/Medium	4
+Plague City	Novice	Short	1
+Sea Slug	Intermediate	Short	1
+Waterfall Quest	Intermediate	Medium	1
+Biohazard	Novice	Medium	3
+Jungle Potion	Novice	Short	1
+The Grand Tree	Experienced	Medium	5
+Shilo Village	Experienced	Medium – Long	2
+Underground Pass	Experienced	Long - Very Long	5
+Observatory Quest	Novice	Medium	2
+The Tourist Trap	Intermediate	Medium	2
+Watchtower	Intermediate	Long	4
+Dwarf Cannon	Novice	Short	1
+Murder Mystery	Novice	Short	3
+The Dig Site	Intermediate	Long	2
+Gertrude's Cat	Novice	Short	1
+Legends' Quest	Master	Very long	4
+Big Chompy Bird Hunting	Intermediate	Short	2
+Elemental Workshop I	Novice	Short	1
+Priest in Peril	Novice	Medium	1
+Nature Spirit	Novice	Medium	2
+Death Plateau	Novice	Medium	1
+Troll Stronghold	Experienced	Short – Medium	1
+Tai Bwo Wannai Trio	Intermediate	Long	2
+Regicide	Master	Long	3
+Eadgar's Ruse	Experienced	Medium – Long	1
+Shades of Mort'ton	Intermediate	Short	3
+The Fremennik Trials	Intermediate	Long	3
+Horror from the Deep	Experienced	Short	2
+Throne of Miscellania	Experienced	Medium	1
+Monkey Madness I	Master	Long	3
+Haunted Mine	Experienced	Medium – Long	2
+Troll Romance	Experienced	Medium	2
+In Search of the Myreque	Intermediate	Short	2
+Creature of Fenkenstrain	Intermediate	Medium	2
+Roving Elves	Master	Short – Medium	1
+Ghosts Ahoy	Intermediate	Medium – Long	2
+One Small Favour	Experienced	Very long	2
+Mountain Daughter	Intermediate	Medium	2
+Between a Rock...	Experienced	Medium – Long	2
+The Feud	Intermediate	Medium	1
+The Golem	Intermediate	Medium	1
+Desert Treasure	Master	Very long	3
+Icthlarin's Little Helper	Intermediate	Medium – Long	2
+Tears of Guthix	Intermediate	Very short	1
+Zogre Flesh Eaters	Intermediate	Medium	1
+The Lost Tribe	Intermediate	Medium	1
+The Giant Dwarf	Intermediate	Medium – Long	2
+Recruitment Drive	Novice	Short	1
+Mourning's End Part I	Master	Medium - Long	2
+Forgettable Tale...	Intermediate	Long	2
+Garden of Tranquillity	Intermediate	Very long	2
+A Tail of Two Cats	Intermediate	Long	2
+Wanted!	Intermediate	Long	1
+Mourning's End Part II	Master	Very long	2
+Rum Deal	Experienced	Medium	2
+Shadow of the Storm	Intermediate	Medium	1
+Making History	Intermediate	Short – Long	3
+Ratcatchers	Intermediate	Long – Very long	2
+Spirits of the Elid	Intermediate	Medium	2
+Devious Minds	Experienced	Short	1
+The Hand in the Sand	Intermediate	Medium	1
+Enakhra's Lament	Experienced	Medium	2
+Cabin Fever	Experienced	Medium	2
+Fairytale I - Growing Pains	Experienced	Long	2
+Recipe for Disaster	Special	Very long	10
+Recipe for Disaster/Another Cook's Quest	Special	Short	1
+Recipe for Disaster/Defeating the Culinaromancer	Special	Short	1
+Recipe for Disaster/Freeing the Mountain Dwarf	Special	Short	1
+Recipe for Disaster/Freeing the Goblin generals	Special	Short	1
+Recipe for Disaster/Freeing Pirate Pete	Special	Medium	1
+Recipe for Disaster/Freeing the Lumbridge Guide	Special	Short	1
+Recipe for Disaster/Freeing Evil Dave	Special	Medium	1
+Recipe for Disaster/Freeing King Awowogei	Special	Medium – Long	1
+Recipe for Disaster/Freeing Sir Amik Varze	Special	Medium	1
+Recipe for Disaster/Freeing Skrach Uglogwee	Special	Medium	1
+In Aid of the Myreque	Intermediate	Long	2
+A Soul's Bane	Novice	Medium	1
+Rag and Bone Man	Novice	Medium	1
+Rag and Bone Man II	Intermediate	Long	1
+Swan Song	Master	Medium	2
+Royal Trouble	Experienced	Long	1
+Death to the Dorgeshuun	Intermediate	Medium	1
+Fairytale II - Cure a Queen	Experienced	Short – Medium	2
+Lunar Diplomacy	Experienced	Long	2
+The Eyes of Glouphrie	Intermediate	Medium – Long	2
+Darkness of Hallowvale	Intermediate	Very long	2
+The Slug Menace	Intermediate	Medium – Long	1
+Elemental Workshop II	Intermediate	Medium	1
+My Arm's Big Adventure	Intermediate	Medium	1
+Enlightened Journey	Intermediate	Short – Long	1
+Eagles' Peak	Novice	Medium	2
+Animal Magnetism	Intermediate	Medium – Long	1
+Contact!	Master	Medium	1
+Cold War	Intermediate	Medium – Long	1
+The Fremennik Isles	Experienced	Long	1
+Tower of Life	Novice	Medium	2
+The Great Brain Robbery	Experienced	Medium	2
+What Lies Below	Intermediate	Short – Medium	1
+Olaf's Quest	Intermediate	Short – Long	1
+Another Slice of H.A.M.	Intermediate	Medium	1
+Dream Mentor	Master	Short – Medium	2
+Grim Tales	Master	Medium	1
+King's Ransom	Experienced	Medium	1
+Monkey Madness II	Grandmaster	Very long	4
+Client of Kourend	Novice	Medium (15-20 minutes)	1
+Bone Voyage	Intermediate	Short – Medium	1
+The Queen of Thieves	Novice	Short	1
+The Depths of Despair	Novice	Short	1
+Dragon Slayer II	Grandmaster	Very long	5
+Tale of the Righteous	Novice	Medium	1
+A Taste of Hope	Experienced	Long	1
+Making Friends with My Arm	Master	Medium	2
+The Forsaken Tower	Novice	Medium	1
+The Ascent of Arceuus	Novice	Medium	1
+Song of the Elves	Grandmaster	Very long	4
+The Fremennik Exiles	Master	Medium	2

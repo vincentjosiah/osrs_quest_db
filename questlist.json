@@ -1,0 +1,1308 @@
+{
+    "quests": [
+        {
+            "name": "Cook's Assistant",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "cooking": 300
+                    }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "Demon Slayer",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "3",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": {
+                        "Silverlight": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The Restless Ghost",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "prayer": 1125
+                    }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "Romeo & Juliet",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "5",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "Sheep Shearer",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "crafting": 150
+                    }
+                },
+                {
+                    "items": {
+                        "coins": 60
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Shield of Arrav",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": {
+                        "coins": 60
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Ernest the Chicken",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "4",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": {
+                        "coins": 300
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Vampire Slayer",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "3",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "attack": 4825
+                    }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "Imp Catcher",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "magic": 875
+                    }
+                },
+                {
+                    "items": {
+                        "amulet of accuracy": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Prince Ali Rescue",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "3",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": {
+                        "coins": 700
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Doric's Quest",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "mining": 1300
+                    }
+                },
+                {
+                    "items": {
+                        "coins": 180
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Black Knights' Fortress",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "3",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": {
+                        "coins": 2500
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Witch's Potion",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "magic": 325
+                    }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "The Knight's Sword",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "smithing": 12725
+                    }
+                },
+                {
+                    "items": { 
+                        "blurite sword": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Goblin Diplomacy",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "5",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": {
+                        "crafting": 200
+                    }
+                },
+                {
+                    "items": {
+                        "gold bar": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Pirate's Treasure",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "2",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": { 
+                        "gold ring": 1,
+                        "emerald": 1,
+                        "coins": 450
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Dragon Slayer",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "2",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { 
+                        "strength": 18650,
+                        "defense": 18650
+                    }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "Rune Mysteries",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": { 
+                        "air talisman": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Misthalin Mystery",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { 
+                        "crafting": 600
+                    }
+                },
+                {
+                    "items": { 
+                        "uncut ruby": 1,
+                        "uncut emerald": 1,
+                        "uncut sapphire": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The Corsair Curse",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "2",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { }
+                },
+                {
+                    "items": { }
+                }
+            ]
+        },
+        {
+            "name": "X Marks the Spot",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": false,
+            "rewards": [
+                {
+                    "experience": { 
+                        "lamp": 300
+                    }
+                },
+                {
+                    "items": { 
+                        "coins": 200,
+                        "beginner clue scroll": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Druidic Ritual",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Lost City",
+            "difficulty": "Experienced",
+            "length": "Short",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Witch's House",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Merlin's Crystal",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "6",
+            "ismem": true
+        },
+        {
+            "name": "Heroes' Quest",
+            "difficulty": "Experienced",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Scorpion Catcher",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Family Crest",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Tribal Totem",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Fishing Contest",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Monk's Friend",
+            "difficulty": "Novice",
+            "length": "Very short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Temple of Ikov",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Clock Tower",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Holy Grail",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Tree Gnome Village",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Fight Arena",
+            "difficulty": "Experienced",
+            "length": "Short",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Hazeel Cult",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Sheep Herder",
+            "difficulty": "Novice",
+            "length": "Short/Medium",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Plague City",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Sea Slug",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Waterfall Quest",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Biohazard",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Jungle Potion",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Grand Tree",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "5",
+            "ismem": true
+        },
+        {
+            "name": "Shilo Village",
+            "difficulty": "Experienced",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Underground Pass",
+            "difficulty": "Experienced",
+            "length": "Long - Very Long",
+            "points": "5",
+            "ismem": true
+        },
+        {
+            "name": "Observatory Quest",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Tourist Trap",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Watchtower",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Dwarf Cannon",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Murder Mystery",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "The Dig Site",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Gertrude's Cat",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Legends' Quest",
+            "difficulty": "Master",
+            "length": "Very long",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Big Chompy Bird Hunting",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Elemental Workshop I",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Priest in Peril",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Nature Spirit",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Death Plateau",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Troll Stronghold",
+            "difficulty": "Experienced",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Tai Bwo Wannai Trio",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Regicide",
+            "difficulty": "Master",
+            "length": "Long",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Eadgar's Ruse",
+            "difficulty": "Experienced",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Shades of Mort'ton",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "The Fremennik Trials",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Horror from the Deep",
+            "difficulty": "Experienced",
+            "length": "Short",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Throne of Miscellania",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Monkey Madness I",
+            "difficulty": "Master",
+            "length": "Long",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Haunted Mine",
+            "difficulty": "Experienced",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Troll Romance",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "In Search of the Myreque",
+            "difficulty": "Intermediate",
+            "length": "Short",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Creature of Fenkenstrain",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Roving Elves",
+            "difficulty": "Master",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Ghosts Ahoy",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "One Small Favour",
+            "difficulty": "Experienced",
+            "length": "Very long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Mountain Daughter",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Between a Rock...",
+            "difficulty": "Experienced",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Feud",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Golem",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Desert Treasure",
+            "difficulty": "Master",
+            "length": "Very long",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Icthlarin's Little Helper",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Tears of Guthix",
+            "difficulty": "Intermediate",
+            "length": "Very short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Zogre Flesh Eaters",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Lost Tribe",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Giant Dwarf",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Recruitment Drive",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Mourning's End Part I",
+            "difficulty": "Master",
+            "length": "Medium - Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Forgettable Tale...",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Garden of Tranquillity",
+            "difficulty": "Intermediate",
+            "length": "Very long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "A Tail of Two Cats",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Wanted!",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Mourning's End Part II",
+            "difficulty": "Master",
+            "length": "Very long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Rum Deal",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Shadow of the Storm",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Making History",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Long",
+            "points": "3",
+            "ismem": true
+        },
+        {
+            "name": "Ratcatchers",
+            "difficulty": "Intermediate",
+            "length": "Long \u00e2\u20ac\u201c Very long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Spirits of the Elid",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Devious Minds",
+            "difficulty": "Experienced",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Hand in the Sand",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Enakhra's Lament",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Cabin Fever",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Fairytale I - Growing Pains",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster",
+            "difficulty": "Special",
+            "length": "Very long",
+            "points": "10",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Another Cook's Quest",
+            "difficulty": "Special",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Defeating the Culinaromancer",
+            "difficulty": "Special",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing the Mountain Dwarf",
+            "difficulty": "Special",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing the Goblin generals",
+            "difficulty": "Special",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing Pirate Pete",
+            "difficulty": "Special",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing the Lumbridge Guide",
+            "difficulty": "Special",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing Evil Dave",
+            "difficulty": "Special",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing King Awowogei",
+            "difficulty": "Special",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing Sir Amik Varze",
+            "difficulty": "Special",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Recipe for Disaster/Freeing Skrach Uglogwee",
+            "difficulty": "Special",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "In Aid of the Myreque",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "A Soul's Bane",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Rag and Bone Man",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Rag and Bone Man II",
+            "difficulty": "Intermediate",
+            "length": "Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Swan Song",
+            "difficulty": "Master",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Royal Trouble",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Death to the Dorgeshuun",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Fairytale II - Cure a Queen",
+            "difficulty": "Experienced",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Lunar Diplomacy",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Eyes of Glouphrie",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Darkness of Hallowvale",
+            "difficulty": "Intermediate",
+            "length": "Very long",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Slug Menace",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Elemental Workshop II",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "My Arm's Big Adventure",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Enlightened Journey",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Eagles' Peak",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Animal Magnetism",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Contact!",
+            "difficulty": "Master",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Cold War",
+            "difficulty": "Intermediate",
+            "length": "Medium \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Fremennik Isles",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Tower of Life",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Great Brain Robbery",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "What Lies Below",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Olaf's Quest",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Another Slice of H.A.M.",
+            "difficulty": "Intermediate",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Dream Mentor",
+            "difficulty": "Master",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "Grim Tales",
+            "difficulty": "Master",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "King's Ransom",
+            "difficulty": "Experienced",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Monkey Madness II",
+            "difficulty": "Grandmaster",
+            "length": "Very long",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "Client of Kourend",
+            "difficulty": "Novice",
+            "length": "Medium (15-20 minutes)",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Bone Voyage",
+            "difficulty": "Intermediate",
+            "length": "Short \u00e2\u20ac\u201c Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Queen of Thieves",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Depths of Despair",
+            "difficulty": "Novice",
+            "length": "Short",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Dragon Slayer II",
+            "difficulty": "Grandmaster",
+            "length": "Very long",
+            "points": "5",
+            "ismem": true
+        },
+        {
+            "name": "Tale of the Righteous",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "A Taste of Hope",
+            "difficulty": "Experienced",
+            "length": "Long",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Making Friends with My Arm",
+            "difficulty": "Master",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        },
+        {
+            "name": "The Forsaken Tower",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "The Ascent of Arceuus",
+            "difficulty": "Novice",
+            "length": "Medium",
+            "points": "1",
+            "ismem": true
+        },
+        {
+            "name": "Song of the Elves",
+            "difficulty": "Grandmaster",
+            "length": "Very long",
+            "points": "4",
+            "ismem": true
+        },
+        {
+            "name": "The Fremennik Exiles",
+            "difficulty": "Master",
+            "length": "Medium",
+            "points": "2",
+            "ismem": true
+        }
+    ]
+}
